@@ -60,5 +60,6 @@ typings/
 
 # WebdriverIO Specific Files
 errorShots/
+screenshots/
 screenshots/latest/
 screenshots/diff/
